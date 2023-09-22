@@ -1,11 +1,11 @@
-About pygrin
-============
+About pygrin-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pygrin-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/scottprahl/pygrin.git
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pygrin-feedstock/blob/main/LICENSE.txt)
 
 Summary: Gradient Index (GRIN) Lens Calculations
 
