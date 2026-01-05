@@ -1,5 +1,5 @@
 {% set name = "pygrin" %}
-{% set version = "0.6.0" %}
+{% set version = "0.6.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/pygrin-{{ version }}.tar.gz
-  sha256: ca562d090603577e1c9125fcd902bf3a5fbe93dec389d940b3d14534d0959ad9
+  sha256: b2f4ed7b899cb204945fbbcd4f6d4b11e05d1266dbbc043474877be7f0728245
 
 build:
   noarch: python
